@@ -27,9 +27,10 @@ java --version
 
 4. Abre PowerShell dentro de la carpeta del servidor.dame
 5. Ejecuta:
-6. ```powershell
+```
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 .\start.ps1
+```
 
 5. ### ✅ Aceptar la EULA
 
