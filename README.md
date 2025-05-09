@@ -68,8 +68,8 @@ Este servidor usa **Tailscale** para jugar sin complicaciones:
 - El servidor incluye el mod **SimpleBackups**.
 - Guarda copias de seguridad automáticamente cada **15 minutos** en la carpeta `simplebackups/`.
 - Tamaño máximo total: **25 GB**.
-- Se almacenan los últimos **10 backups**.
-
+- Cuando la carpeta de backups supera los **25 GB**, se eliminan automáticamente los **10 backups más antiguos** para liberar espacio.
+- De este modo, siempre se conservan los backups más actuales sin necesidad de intervención manual.
 ---
 
 ### 🧙 Shaders y Mods
