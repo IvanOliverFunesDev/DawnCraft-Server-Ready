@@ -60,7 +60,7 @@ Acepta la **EULA** cuando se te pida al iniciar por primera vez el servidor.
 
 Este servidor usa **Tailscale** para jugar sin complicaciones:
 
-1. Descarga Tailscale: [https://tailscale.com](https://tailscale.com)
+1. Descarga Tailscale: [https://tailscale.com](https://tailscale.com/download)
 2. Inicia sesión con tu cuenta de Google.
 3. Pide al dueño del servidor que te invite a su red.
 4. Conéctate usando la IP que te dé Tailscale (ejemplo: `100.x.x.x`).
