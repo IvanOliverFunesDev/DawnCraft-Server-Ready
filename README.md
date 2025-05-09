@@ -1,7 +1,11 @@
 
 # 🛠️ DawnCraft-Server-Ready
 
-Servidor oficial **DawnCraft** completamente preconfigurado, listo para clonar, ejecutar y jugar con amigos. Incluye traducción al español, shaders configurados, sistema de backups y compatibilidad con conexión por **Tailscale**.
+Servidor oficial **DawnCraft** completamente preconfigurado, listo para clonar, ejecutar y jugar con amigos.  
+Incluye traducción al español, shaders optimizados, sistema automático de backups y compatibilidad con conexión mediante **Tailscale**.
+
+Además, este README detalla claramente qué parámetros puedes configurar si deseas personalizar el servidor, incluyendo ajustes según las características de tu hardware, como la memoria RAM dedicada al servidor.  
+Aunque todo viene listo para usar, tienes la flexibilidad de adaptarlo fácilmente a tus necesidades.
 
 ---
 
