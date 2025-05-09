@@ -40,12 +40,15 @@ Acepta la **EULA** cuando se te pida al iniciar por primera vez el servidor.
 
 ### 🧠 Recomendaciones
 
-- Se recomienda tener al menos **8 GB de RAM** dedicados al servidor.
-- Puedes ajustar la RAM en el archivo `variables.txt`.
-- Para mejor rendimiento, modifica en `server.properties` los siguientes valores:
+- Se recomienda disponer de al menos **8 GB de RAM** dedicados al servidor para un rendimiento óptimo.
+- ⚙️ Por defecto, el servidor ya está preconfigurado con 8 GB de RAM.  
+  Puedes ajustar esta cantidad editando el archivo `variables.txt`, modificando la línea:
+  ```bash
+  JAVA_ARGS="-Xmx8G -Xms8G"
+- 🧾 En el archivo `server.properties`, también se han preestablecido los valores recomendados para el rendimiento:
   - `view-distance=6`
   - `simulation-distance=4`
-
+-Si cuentas con más recursos disponibles, puedes incrementarlos para mejorar la experiencia del juego.
 ---
 
 ### 🌐 Jugar con amigos (sin abrir puertos)
