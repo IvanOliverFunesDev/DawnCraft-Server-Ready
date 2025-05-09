@@ -48,7 +48,8 @@ Acepta la **EULA** cuando se te pida al iniciar por primera vez el servidor.
 - 🧾 En el archivo `server.properties`, también se han preestablecido los valores recomendados para el rendimiento:
   - `view-distance=6`
   - `simulation-distance=4`
--Si cuentas con más recursos disponibles, puedes incrementarlos para mejorar la experiencia del juego.
+
+- Si cuentas con más recursos disponibles, puedes incrementarlos para mejorar la experiencia del juego.
 ---
 
 ### 🌐 Jugar con amigos (sin abrir puertos)
